@@ -1,5 +1,5 @@
 # Desafio Gesec
 
-##Getting Started
+## Getting Started
 
-$ npm install
+<code>npm install</code>
